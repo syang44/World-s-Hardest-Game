@@ -24,4 +24,4 @@ After you win, press 'Esc' key to return to initial screen.
 
 Additional features include messages on the HEX display (when you lose, win, etc.), and audio when you collide with the enemy.
 
-See Demo folder for videos of game.
+See [Demo folder](https://github.com/syang44/World-s-Hardest-Game/tree/main/Demo) for videos of game.
